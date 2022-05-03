@@ -7,12 +7,7 @@
         <div id="logoText">
             Evangelische Stadtmission Trier
         </div>
-        <div id="logo">
-            <img src="LogoF.png" alt="Logo" width=60px>
-        </div>
+            <img id="logo" src="LogoF.png" alt="Logo">
     </header>
-    <h1>Connecting</h1>
-    Please click <a href="http://192.168.2.108:8000/player/index.html">here</a> if the stream doesn't load within 5 seconds.
-    <br/>
-    If there is no stream currently active the player won't be reachable.
-</body>
+    <h1>Подключение</h1>
+    Пожалуйста, нажмите <a href="http://
